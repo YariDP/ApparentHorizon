@@ -6,4 +6,4 @@ This project aims to develop an algorithm which is able to locate the apparent h
 
 ## References
 
-The solving procedure is provided by the paper by [H. K. Hui, L. M. Lin (2024)](https://arxiv.org/abs/2404.16511).
+The solving procedure is inspired by the paper by [H. K. Hui, L. M. Lin (2024)](https://arxiv.org/abs/2404.16511).
